@@ -6,4 +6,6 @@ date - 29-04-2026 -> preparing ibm and compile design for put exam
 
 date - 30-04-2026 -> preparing for the compile design exam that is scheduled tommorow
 
-date - 01-05-2-26 -> preparing for the big data exam
+date - 01-05-2026 -> preparing for the big data exam
+
+date - 02-05-2026 -> put exam is over now will focus on my learning
