@@ -9,3 +9,5 @@ date - 30-04-2026 -> preparing for the compile design exam that is scheduled tom
 date - 01-05-2026 -> preparing for the big data exam
 
 date - 02-05-2026 -> put exam is over now will focus on my learning
+
+date - 03-05-2026 -> just relaxing today
